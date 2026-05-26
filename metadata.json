@@ -1,0 +1,6 @@
+{
+  "name": "VM App",
+  "description": "Placeholder for VM App.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
